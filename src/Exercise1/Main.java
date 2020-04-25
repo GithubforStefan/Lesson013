@@ -24,7 +24,7 @@ public class Main {
         map.put(point2, "Ali");
 
         String s = map.get(point1); // "Fai"
-a
+
 
 
     }
